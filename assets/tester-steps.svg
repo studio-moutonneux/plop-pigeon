@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="How to join the Plop Pigeon test: 1 join the Google Group, 2 open the test link, 3 become a tester, 4 install from Google Play">
+  <style>
+    .bg{fill:#fbfaff}.card{fill:#ffffff;stroke:#e4def5;stroke-width:2}
+    .num{fill:#7a5cd6}.n{fill:#fff;font:700 28px -apple-system,Segoe UI,Roboto,sans-serif;text-anchor:middle}
+    .t{fill:#241f33;font:700 22px -apple-system,Segoe UI,Roboto,sans-serif}
+    .s{fill:#6b6482;font:17px -apple-system,Segoe UI,Roboto,sans-serif}
+    .btn{fill:#7a5cd6}.bt{fill:#fff;font:600 16px -apple-system,Segoe UI,Roboto,sans-serif;text-anchor:middle}
+    .arrow{fill:none;stroke:#b49cff;stroke-width:4;stroke-linecap:round}
+  </style>
+  <rect class="bg" width="1200" height="420" rx="24"/>
+  <g transform="translate(45,40)">
+    <rect class="card" width="255" height="340" rx="18"/>
+    <circle class="num" cx="128" cy="48" r="26"/><text class="n" x="128" y="58">1</text>
+    <text class="t" x="128" y="120" text-anchor="middle">Join the group</text>
+    <text class="s" x="128" y="146" text-anchor="middle">Rejoins le groupe</text>
+    <rect x="48" y="176" width="160" height="88" rx="12" fill="#f2eefc"/>
+    <text class="s" x="128" y="212" text-anchor="middle">jam-jam-testers</text>
+    <rect class="btn" x="58" y="226" width="140" height="26" rx="13"/><text class="bt" x="128" y="244">Join / Rejoindre</text>
+    <text class="s" x="128" y="300" text-anchor="middle">Google account</text>
+    <text class="s" x="128" y="322" text-anchor="middle">Compte Google</text>
+  </g>
+  <g transform="translate(330,40)">
+    <rect class="card" width="255" height="340" rx="18"/>
+    <circle class="num" cx="128" cy="48" r="26"/><text class="n" x="128" y="58">2</text>
+    <text class="t" x="128" y="120" text-anchor="middle">Open the test link</text>
+    <text class="s" x="128" y="146" text-anchor="middle">Ouvre le lien de test</text>
+    <rect x="48" y="176" width="160" height="88" rx="12" fill="#f2eefc"/>
+    <text class="s" x="128" y="226" text-anchor="middle">play.google.com/</text>
+    <text class="s" x="128" y="248" text-anchor="middle">apps/testing/…</text>
+    <text class="s" x="128" y="300" text-anchor="middle">Same Google account</text>
+    <text class="s" x="128" y="322" text-anchor="middle">Même compte Google</text>
+  </g>
+  <g transform="translate(615,40)">
+    <rect class="card" width="255" height="340" rx="18"/>
+    <circle class="num" cx="128" cy="48" r="26"/><text class="n" x="128" y="58">3</text>
+    <text class="t" x="128" y="120" text-anchor="middle">Become a tester</text>
+    <text class="s" x="128" y="146" text-anchor="middle">Deviens testeur</text>
+    <rect x="48" y="176" width="160" height="88" rx="12" fill="#f2eefc"/>
+    <rect class="btn" x="58" y="206" width="140" height="30" rx="15"/><text class="bt" x="128" y="227">Become a tester</text>
+    <text class="s" x="128" y="300" text-anchor="middle">One tap</text>
+    <text class="s" x="128" y="322" text-anchor="middle">Un seul appui</text>
+  </g>
+  <g transform="translate(900,40)">
+    <rect class="card" width="255" height="340" rx="18"/>
+    <circle class="num" cx="128" cy="48" r="26"/><text class="n" x="128" y="58">4</text>
+    <text class="t" x="128" y="120" text-anchor="middle">Install and play</text>
+    <text class="s" x="128" y="146" text-anchor="middle">Installe et joue</text>
+    <rect x="48" y="176" width="160" height="88" rx="12" fill="#f2eefc"/>
+    <rect class="btn" x="58" y="206" width="140" height="30" rx="15"/><text class="bt" x="128" y="227">Install / Installer</text>
+    <text class="s" x="128" y="300" text-anchor="middle">Google Play, free</text>
+    <text class="s" x="128" y="322" text-anchor="middle">Google Play, gratuit</text>
+  </g>
+  <path class="arrow" d="M306 210 h18 M591 210 h18 M876 210 h18"/>
+</svg>

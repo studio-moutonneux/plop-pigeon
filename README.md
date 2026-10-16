@@ -56,6 +56,28 @@ de plus en plus absurde. Trois cartes : Paris, les Calanques de Marseille et la 
 Bientôt sur Android (Google Play), puis sur iOS, macOS et Windows.
 Dessin animé, bon enfant : personne n'est blessé, tout le monde se relève (furieux).
 
+## Join the beta test / Rejoindre le test
+
+<p align="center">
+  <img src="assets/tester-steps.svg" width="100%" alt="Four steps: join the Google Group, open the test link, become a tester, install from Google Play.">
+</p>
+
+**English.** Plop Pigeon is in closed testing on Google Play (Android).
+1. Sign in with your Google account and [join the tester group](https://groups.google.com/g/jam-jam-testers) (button "Join group").
+2. With the same Google account, open the [test link](https://play.google.com/apps/testing/com.moutonneux.pigeonchaos) on your phone or in a browser.
+3. Tap **Become a tester**.
+4. Tap **Download it on Google Play** and install the game. Updates arrive like any other app.
+
+The test link starts working as soon as Google has reviewed the first build (usually within a few days).
+
+**Français.** Plop Pigeon est en test fermé sur Google Play (Android).
+1. Connecte-toi avec ton compte Google et [rejoins le groupe de testeurs](https://groups.google.com/g/jam-jam-testers) (bouton « Rejoindre le groupe »).
+2. Avec le même compte Google, ouvre le [lien de test](https://play.google.com/apps/testing/com.moutonneux.pigeonchaos) sur ton téléphone ou dans un navigateur.
+3. Appuie sur **Devenir testeur**.
+4. Appuie sur **Télécharger sur Google Play** et installe le jeu. Les mises à jour arrivent comme pour n'importe quelle appli.
+
+Le lien de test fonctionne dès que Google a validé la première version (en général sous quelques jours).
+
 ## Privacy and support
 
 - [Privacy policy / Politique de confidentialité](https://studio-moutonneux.github.io/plop-pigeon/privacy/)
